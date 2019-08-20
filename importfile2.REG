@@ -1,0 +1,30 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC]
+"SupplyId"=dword:00018899
+"version"="12563"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AOW_Rootfs_0]
+"InstallPath"="C:\\Program Files\\TxGameAssistant\\AOW_Rootfs"
+"Version"="2.0.12469.123"
+"InstallDone"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket]
+"InstallPath"="C:\\Program Files\\TxGameAssistant\\AppMarket"
+"AutoStart"=dword:00000001
+"NewInstall"=dword:00000001
+"Version"="2.0.12561.123"
+"InstallTime"=hex(b):80,2c,ce,24,41,57,d5,01
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UI]
+"InstallPath"="C:\\Program Files\\TxGameAssistant\\UI"
+"Version"="2.0.12563.123"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UIData]
+"Version"="2.0.12563.123"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\Update]
+"Time"=hex(b):70,4d,b1,8f,41,57,d5,01
+

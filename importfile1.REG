@@ -3,6 +3,14 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\Tencent]
 "{D48E5993-9335-4523-94BF-65F837FDFEC9}"="4FAC181D-76DA-DEA3-A2B3-F3E445159646"
 
+[HKEY_CURRENT_USER\Software\Tencent\AndroidServer]
+"LastInstalledVersion"="1.0.0.588"
+"CurrentInstalledVersion"="1.0.0.588"
+
+[HKEY_CURRENT_USER\Software\Tencent\AndroidServer\1.0.0.588]
+"InstalledVersion"="1.0.0.588"
+"InstallPath"=""
+
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC]
 "UserLanguage"="id"
 "sf"="C:\\Temp\\TxGameDownload\\MobileGamePCShared"
@@ -21,7 +29,7 @@ Windows Registry Editor Version 5.00
 "VMCpuCount"=dword:00000004
 "VMResWidth"=dword:00000780
 "VMResHeight"=dword:00000438
-"VMDPI"=dword:000000a0
+"VMDPI"=dword:000000f0
 "EmulatorTopMostStatus"=dword:00000000
 "DirectxVersion"=dword:0000000b
 "com.tencent.ig_ContentScale"=dword:00000001
@@ -119,7 +127,7 @@ Windows Registry Editor Version 5.00
 "PinToStartOldValue"=dword:00000001
 "UpdatePinOrReg"=dword:00000001
 "SoftMgrShowContextUninstall"=dword:00000001
-"ShortcutsPath"="C:\\Program Files (x86)\\Tencent\\QQPCMgr\\13.4.20317.215\\强力卸载电脑上的软件 .lnk"
+"ShortcutsPath"="C:\\Program Files (x86)\\Tencent\\QQPCMgr\\13.4.20317.215\\å¼ºåŠ›å¸è½½ç”µè„‘ä¸Šçš„è½¯ä»¶ .lnk"
 
 [HKEY_CURRENT_USER\Software\Tencent\QQPCMgr\SystemOptimize]
 "GarbageLastCleanStartTime"="1559215885"

@@ -20,9 +20,9 @@ Windows Registry Editor Version 5.00
 "HideAdvancedWatermark"=dword:00000001
 "RecommendLocalSwitch"=dword:00000000
 "ForceDirectX"=dword:00000001
-"EnableGLESv3"=dword:00000000
-"ShaderCacheEnabled"=dword:00000001
-"LocalShaderCacheEnabled"=dword:00000001
+"EnableGLESv3"=dword:00000001
+"ShaderCacheEnabled"=dword:00000000
+"LocalShaderCacheEnabled"=dword:00000000
 "GraphicsCardEnabled"=dword:00000001
 "RenderOptimizeEnabled"=dword:00000001
 "VMMemorySizeInMB"=dword:00001000
@@ -61,7 +61,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\GameDownload\IpListCache]
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\GameHistory]
-"ReverseOrder"="com.tencent.ig|com.miHoYo.bh3oversea|com.android.packageinstaller|com.tencent.godgame|com.garena.game.kgid|com.dragonest.autochess.google"
+"ReverseOrder"="com.mobile.legends|org.gscript|com.estrongs.android.pop|com.android.packageinstaller|com.android.browser|com.android.documentsui|com.tencent.ig|com.miHoYo.bh3oversea|com.tencent.godgame|com.garena.game.kgid|com.dragonest.autochess.google"
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\InstallFlags]
 
@@ -80,10 +80,10 @@ Windows Registry Editor Version 5.00
 "com.tencent.tmgp.pubgmhd"=dword:00000001
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\RunFalgs]
-"MatchRuleId"=dword:00000038
-"MatchRuleApk"="com.tencent.ig"
-"ApkRuning"=dword:00000000
-"ApkName"="com.tencent.ig"
+"MatchRuleId"=dword:00000080
+"MatchRuleApk"="com.mobile.legends"
+"ApkRuning"=dword:00000001
+"ApkName"="com.mobile.legends"
 "RendererEngine"=dword:00000002
 "GameStatus"=dword:00000000
 
@@ -127,7 +127,7 @@ Windows Registry Editor Version 5.00
 "PinToStartOldValue"=dword:00000001
 "UpdatePinOrReg"=dword:00000001
 "SoftMgrShowContextUninstall"=dword:00000001
-"ShortcutsPath"="C:\\Program Files (x86)\\Tencent\\QQPCMgr\\13.4.20317.215\\å¼ºåŠ›å¸è½½ç”µè„‘ä¸Šçš„è½¯ä»¶ .lnk"
+"ShortcutsPath"="C:\\Program Files (x86)\\Tencent\\QQPCMgr\\13.4.20317.215\\Ã¥Â¼ÂºÃ¥Å â€ºÃ¥ÂÂ¸Ã¨Â½Â½Ã§â€ÂµÃ¨â€žâ€˜Ã¤Â¸Å Ã§Å¡â€žÃ¨Â½Â¯Ã¤Â»Â¶ .lnk"
 
 [HKEY_CURRENT_USER\Software\Tencent\QQPCMgr\SystemOptimize]
 "GarbageLastCleanStartTime"="1559215885"
@@ -144,4 +144,4 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\Tencent\TBS\Wup]
 "ClientGuid"="D81E4EA55E6BE63902AB9F78377988CB"
 "ValidationGuid"="E8DE479F78B8B94948ACF98AF6EA409A9FD7783A041F28FD"
-"ClientToken"="hb+3ADAscUYD7AODskVHKy3sJBeGrQdp4O2+5XYcEEpgd+TY7/u/wZCgRGNE0aM7CyDy7+InO/ZVsxPmI+GlnmVXO0I23ncTtfjgbsEldiwQng/sIeihQQLzcMJjBcRyT/e4Ah9HrwR6aY2PxPPGOmwlZ4ZdxQaE"
+"ClientToken"="hb+3ADAscUYD7AODskVHK+1luOqz8ug/tOnoI9sEXpwAJXzl113Sdy1kq8a5qezeZnjdAbkzorJVsxPmI+GlnmVXO0I23ncTtfjgbsEldiwQng/sIeihQQLzcMJjBcRyT/e4Ah9HrwR6aY2PxPPGOmwlZ4ZdxQaE"

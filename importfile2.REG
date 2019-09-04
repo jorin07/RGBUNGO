@@ -13,12 +13,12 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\AppMarket"
-"AutoStart"=dword:00000001
+"AutoStart"=dword:00000000
+"NewInstall"=dword:00000001
 "Version"="2.0.12561.123"
 "InstallTime"=hex(b):80,2c,ce,24,41,57,d5,01
-"AppCrashStrTime"="20190821004244"
 "chkLastChoice"=dword:00000000
-"NewInstall"=dword:00000001
+"AppCrashStrTime"="20190821004244"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupGameNoticeHistory]
 "adg_NoAskChecked_pl"="id=70200|"
@@ -36,7 +36,11 @@ Windows Registry Editor Version 5.00
 "Version"="2.0.12613.123"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\Update]
-"Time"=hex(b):d0,a5,2d,2d,89,60,d5,01
+"Time"=hex(b):80,c2,b8,89,b4,62,d5,01
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\VDI_0]
+"InstallPath"="C:\\Program Files\\TxGameAssistant\\VDI"
+"Version"="1.0.5205.123"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\VDI_100]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\VDI_100"

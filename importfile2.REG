@@ -30,6 +30,11 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UIData]
 "Version"="2.0.12708.123"
 
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\Update]
+"Time"=hex(b):50,34,5a,a3,b8,6b,d5,01
+
+
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\VDI_0]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\VDI"
 "Version"="1.0.5205.123"

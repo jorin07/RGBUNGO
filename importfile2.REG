@@ -9,12 +9,12 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AOW_Rootfs_0]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\AOW_Rootfs"
 "Version"="3.30.14.100"
-"InstallDone"=dword:00000002
+"InstallDone"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\AppMarket"
 "AutoStart"=dword:00000001
-"Version"="3.11.106.100"
+"Version"="3.11.127.100"
 "InstallTime"=hex(b):10,53,8c,cd,9c,b0,d5,01
 "chkLastChoice"=dword:00000000
 
@@ -31,12 +31,12 @@ Windows Registry Editor Version 5.00
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\UI"
 "Version"="3.21.237.100"
 "SnapshotPath"="C:\\ProgramData\\Tencent\\TxGameAssistant\\Snapshot"
-"StartCount"=dword:0000000d
-"LastTimeSuccess"=dword:00000001
+"StartCount"=dword:0000000e
+"LastTimeSuccess"=dword:00000000
 "local_opengl_start"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UIData]
 "Version"="3.21.237.100"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\Update]
-"Time"=hex(b):70,c5,f7,4b,6c,b6,d5,01
+"Time"=hex(b):e0,0e,10,6f,ef,b6,d5,01

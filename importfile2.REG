@@ -3,8 +3,10 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent]
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC]
-"SupplyId"=dword:35a80617
-"version"="237"
+"SupplyId"=dword:35a80a35
+"version"="407"
+"HttpdnsWhiteList"="*.fun;*.com;*.net;*.im;"
+"HttpdnsSwitch"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AOW_Rootfs_0]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\AOW_Rootfs"
@@ -13,30 +15,24 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\AppMarket"
-"AutoStart"=dword:00000001
-"Version"="3.11.127.100"
-"InstallTime"=hex(b):10,53,8c,cd,9c,b0,d5,01
+"AutoStart"=dword:00000000
+"Version"="3.11.200.100"
+"InstallTime"=hex(b):f0,82,89,2f,69,e3,d5,01
 "chkLastChoice"=dword:00000000
 
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupGameNoticeHistory]
-"adg_NoAskChecked_pl"="id=70904|"
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupBafuTipsHistory]
+"adg_BuffTip_pl"="id=69953|"
 
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupTipsHistory]
-"adg_GameRelease_pl"="id=70926|"
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupTipsLastTime]
-"adg_GameRelease_lt"=hex(b):dd,87,f3,5d,00,00,00,00
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupBafuTipsLastTime]
+"adg_BuffTip_lt"=hex(b):7f,f0,46,5e,00,00,00,00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UI]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\UI"
-"Version"="3.21.237.100"
+"Version"="3.21.407.100"
 "SnapshotPath"="C:\\ProgramData\\Tencent\\TxGameAssistant\\Snapshot"
-"StartCount"=dword:0000000e
-"LastTimeSuccess"=dword:00000000
-"local_opengl_start"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UIData]
-"Version"="3.21.237.100"
+"Version"="3.21.407.100"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\Update]
-"Time"=hex(b):e0,0e,10,6f,ef,b6,d5,01
+"Time"=hex(b):f0,4b,8c,6c,6a,e3,d5,01

@@ -2,84 +2,32 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\Software\Tencent]
 
-[HKEY_CURRENT_USER\Software\Tencent\Europa]
-"ProfileReportDirty"=dword:00000000
-"HarwareInfoReportDirty"=dword:00000000
-
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC]
-"UserLanguage"="id"
-"sf"="I:\\Temp\\TxGameDownload\\MobileGamePCShared"
-"syzs_country"="印度尼西亚"
+"sf"="C:\\Temp\\TxGameDownload\\MobileGamePCShared"
+"UserLanguage"="en"
 "RecommendCloudSwitch"=dword:00000001
 "ApkMiniUpdate"=dword:00000001
+"MaxSpeedRecordTime"=hex(b):eb,f0,46,5e,00,00,00,00
 "HideAdvancedWatermark"=dword:00000001
 "TGVoiceLocalSwitch"=dword:00000001
-"download_mode"=dword:00000000
+"download_mode"=dword:00000001
 "ForceDirectX"=dword:00000003
 "EnableGLESv3"=dword:00000000
-"ShaderCacheEnabled"=dword:00000000
 "GraphicsCardEnabled"=dword:00000001
-"RenderOptimizeEnabled"=dword:00000000
-"VMMemorySizeInMB"=dword:00001000
 "VMCpuCount"=dword:00000004
-"VMResWidth"=dword:00000780
-"VMResHeight"=dword:00000438
+"VMResWidth"=dword:000005a0
+"VMResHeight"=dword:00000384
 "VMDPI"=dword:000000f0
-"MaxSpeedRecordTime"=hex(b):2f,b7,f1,5d,00,00,00,00
-"TGVoiceCloudSwitch"=dword:00000001
-"EmulatorTopMostStatus"=dword:00000000
-"DirectxVersion"=dword:0000000b
-"ml_timer_user_switch"=dword:00000001
-"ml_timer_user_version"=dword:000000c9
-"ml_timer_sys_version"=dword:000000c9
-"ml_timer_update_tips_switch"=dword:00000001
-
-[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\ClientPayTip]
-
-[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\ClientPayTip\com.tencent.ig]
-"ClientPayTipID"=dword:00000068
-"ClientPayTipFrequency"=dword:00000002
-"ClientPayTipRecord"=dword:00000013
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\EngineFalgs]
 "AowInstalling"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\GameDownload]
-"DownloadSpeed"=dword:00000576
+"DownloadSpeed"=dword:000014b7
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\GameDownload\IpListCache]
 
-[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\GameHistory]
-"ReverseOrder"="com.tencent.ig|com.mobile.legends|com.dts.freefireth|com.tencent.txgoogleinstaller|com.garena.game.codm"
-
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\InstallFlags]
-
-[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\NetBoosterCfg]
-"NetBoosterVersion"=dword:00000001
-"NetBoosterSwitch"=dword:00000001
-"NetBoosterGameList"="com.activision.callofduty.shooter"
-
-[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\NewOpGuidTip]
-"com.garena.game.codm"=dword:00000001
-"pubg_mobile_userinfo2"="22519140263003432:babyBoyz:5366863894"
-
-[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\TGVoiceCloudCfg]
-"TGVoiceCloudSwitch"="com.tencent.ig|com.tencent.tmgp.pubgmhd"
-
-[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\TGVoiceEntryTip]
-
-[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\TGVoiceEntryTip\com.tencent.tmgp.pubgmhd]
-"TGVoiceEntryTipID"=dword:00000065
-"TGVoiceEntryTipFrequency"=dword:00000002
-"TGVoiceEntryTipRecord"=dword:00000001
-
-[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\RunFalgs]
-"MatchRuleId"=dword:00000038
-"MatchRuleApk"="com.tencent.ig"
-"ApkRuning"=dword:00000000
-"ApkName"="com.tencent.ig"
-"RendererEngine"=dword:00000002
-"GameStatus"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\Tencent\QQ]
 
@@ -89,12 +37,28 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\Software\Tencent\TBS\exceptions]
 "browser"=hex:01,00,00,00,00,00,00,00,01,00,00,00,01,00,00,00
-"gpu-process"=hex:01,00,00,00,00,00,00,00,00,00,00,00,03,00,00,00
+"gpu-process"=hex:01,00,00,00,00,00,00,00,01,00,00,00,03,00,00,00
 "ppapi"=hex:01,00,00,00,00,00,00,00,00,00,00,00,05,00,00,00
 "renderer"=hex:01,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00
 "utility"=hex:01,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00
 
+[HKEY_CURRENT_USER\Software\Tencent\TBS\PrivateCfg]
+
+[HKEY_CURRENT_USER\Software\Tencent\TBS\PrivateCfg\Config_ninre]
+"gfwebctrl"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Tencent\TBS\PrivateCfg\TBSCC_DCFLVL]
+"qq"=dword:000000aa
+"tgp"=dword:000000aa
+
+[HKEY_CURRENT_USER\Software\Tencent\TBS\PrivateCfg\TBSCC_ENSFS]
+"tgp"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Tencent\TBS\UserExpPlan]
+"wechat-company"=dword:00000001
+"wechat"=dword:00000001
+
 [HKEY_CURRENT_USER\Software\Tencent\TBS\Wup]
-"ClientGuid"="44B77DDAC3D850669A935CE4377988CB"
-"ValidationGuid"="9958F746E692AF4BAD5ED5B717C9EB70727DC1B5AD095F09"
-"ClientToken"="CgkWxYc0z9KnPFt+t2JoTh/B47ChHvoFUSi9pAG3OR3LCQ0akMawwUt1Tus5L6gmdCQN1fwqonRFFg1vudTMzXwKEgoxWbE1MuvgSaKXLIkfvXWayGVH5QLzcMJjBcRyT/e4Ah9HrwR6aY2PxPPGOmwlZ4ZdxQaE"
+"ClientToken"="CgkWxYc0z9KnPFt+t2JoTlBj/QwJwnJNIMA1CC/wY7JbFBZ2uDDo9JOEu5FJ5sGP6u7BQTfECU9FFg1vudTMzXwKEgoxWbE1MuvgSaKXLIkfvXWayGVH5QLzcMJjBcRyT/e4Ah9HrwR6aY2PxPPGOmwlZ4ZdxQaE"
+"ClientGuid"="57A46EC9D37C07468DD6EEF7377988CB"
+"ValidationGuid"="ABE8D28EE4BD349F795305E565A643201F866F0E895EEE7A"

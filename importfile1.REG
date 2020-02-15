@@ -15,8 +15,8 @@ Windows Registry Editor Version 5.00
 "EnableGLESv3"=dword:00000000
 "GraphicsCardEnabled"=dword:00000001
 "VMCpuCount"=dword:00000004
-"VMResWidth"=dword:000005a0
-"VMResHeight"=dword:00000384
+"VMResWidth"=dword:00000780
+"VMResHeight"=dword:00000438
 "VMDPI"=dword:000000f0
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\EngineFalgs]

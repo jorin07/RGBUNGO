@@ -8,9 +8,9 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC]
 "sf"="C:\\Temp\\TxGameDownload\\MobileGamePCShared"
-"MaxSpeedRecordTime"=hex(b):eb,f0,46,5e,00,00,00,00
+"MaxSpeedRecordTime"=hex(b):a1,af,79,5e,00,00,00,00
 "UserLanguage"="en"
-"syzs_country"="å°åº¦å°¼è¥¿äºš"
+"syzs_country"="Ã¥ÂÂ°Ã¥ÂºÂ¦Ã¥Â°Â¼Ã¨Â¥Â¿Ã¤ÂºÅ¡"
 "RecommendCloudSwitch"=dword:00000001
 "ApkMiniUpdate"=dword:00000001
 "HideAdvancedWatermark"=dword:00000001
@@ -34,8 +34,22 @@ Windows Registry Editor Version 5.00
 "ml_timer_sys_version"=dword:000000c9
 "ml_timer_update_tips_switch"=dword:00000001
 "VtEnable"=dword:00000001
+"syzs_emulator_hwnd"=dword:00000000
+"last_game_update_tips_show_time"=hex(b):7b,69,5e,5e,00,00,00,00
+"FxaaQuality"=dword:00000000
+"CPUScore"=dword:000018cb
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\ClientPayTip]
+
+[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\ClientPayTip\com.dts.freefireth]
+"ClientPayTipID"=dword:00000001
+"ClientPayTipFrequency"=dword:00000002
+"ClientPayTipRecord"=dword:0000001a
+
+[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\ClientPayTip\com.mobile.legends]
+"ClientPayTipID"=dword:00000001
+"ClientPayTipFrequency"=dword:00000002
+"ClientPayTipRecord"=dword:00000017
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\ClientPayTip\com.tencent.ig]
 "ClientPayTipID"=dword:00000068
@@ -47,12 +61,12 @@ Windows Registry Editor Version 5.00
 "Vdi71Installing"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\GameDownload]
-"DownloadSpeed"=dword:000014b7
+"DownloadSpeed"=dword:00000bea
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\GameDownload\IpListCache]
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\GameHistory]
-"ReverseOrder"="com.mobile.legends|com.tencent.ig|com.dts.freefireth|com.tencent.txgoogleinstaller|com.garena.game.codm"
+"ReverseOrder"="com.tencent.ig|com.mobile.legends|com.dts.freefireth|com.tencent.txgoogleinstaller|com.garena.game.codm"
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\InstallFlags]
 
@@ -63,13 +77,13 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\NewOpGuidTip]
 "com.garena.game.codm"=dword:00000001
-"pubg_mobile_userinfo2"="4132798726538536:MeTaLKiNgDoM:568728255"
+"pubg_mobile_userinfo2"="1093633898317096:《TX》Wild:524941215"
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\RunFalgs]
-"MatchRuleId"=dword:00000080
-"MatchRuleApk"="com.mobile.legends"
+"MatchRuleId"=dword:00000038
+"MatchRuleApk"="com.tencent.ig"
 "ApkRuning"=dword:00000000
-"ApkName"="com.mobile.legends"
+"ApkName"="com.tencent.ig"
 "RendererEngine"=dword:00000002
 "GameStatus"=dword:00000000
 
@@ -118,4 +132,4 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\Tencent\TBS\Wup]
 "ClientGuid"="57A46EC9D37C07468DD6EEF7377988CB"
 "ValidationGuid"="ABE8D28EE4BD349F795305E565A643201F866F0E895EEE7A"
-"ClientToken"="hb+3ADAscUYD7AODskVHK+v80BktpTvO1GB0cdsAUdbfomA66A7jNXZ63uo++cmU89StGoDVsYtVsxPmI+GlnmVXO0I23ncTtfjgbsEldiwQng/sIeihQQLzcMJjBcRyT/e4Ah9HrwR6aY2PxPPGOmwlZ4ZdxQaE"
+"ClientToken"="hb+3ADAscUYD7AODskVHK/Vmi+dDGL3pNLmxcYqmhYaEB6bCciknMgdinSn1BcGoogDjO8f4VEdVsxPmI+GlnmVXO0I23ncTtfjgbsEldiwQng/sIeihQQLzcMJjBcRyT/e4Ah9HrwR6aY2PxPPGOmwlZ4ZdxQaE"

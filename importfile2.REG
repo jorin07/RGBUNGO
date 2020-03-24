@@ -4,14 +4,14 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC]
 "SupplyId"=dword:35a80a35
-"version"="480"
+"version"="585"
 "HttpdnsWhiteList"="*.fun;*.com;*.net;*.im;"
 "HttpdnsSwitch"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AOW_Rootfs_0]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\AOW_Rootfs"
-"Version"="3.30.14.100"
-"InstallDone"=dword:00000001
+"Version"="3.31.54.100"
+"InstallDone"=dword:00000002
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\AppMarket"
@@ -21,6 +21,7 @@ Windows Registry Editor Version 5.00
 "chkLastChoice"=dword:00000000
 "AppCrashStrTime"="20200224105647"
 "UpdateFailFileList"="AECommonDll.dll.update|dr.dll.update|msvcp140.dll.update|icudtl.dat.update|en-US.pak.update|natives_blob.bin.update|qb.pak.update|qb_100_percent.pak.update|qb_200_percent.pak.update|qb_extensions.pak.update|snapshot_blob.bin.update|vcruntime140.dll.update"
+"NewInstall"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupBafuTipsHistory]
 "adg_BuffTip_pl"="id=69953|"
@@ -39,19 +40,19 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UI]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\UI"
-"Version"="3.21.480.100"
+"Version"="3.21.585.100"
 "SnapshotPath"="C:\\ProgramData\\Tencent\\TxGameAssistant\\Snapshot"
-"StartCount"=dword:00000014
+"StartCount"=dword:00000016
 "LastTimeSuccess"=dword:00000001
 "local_opengl_start"=dword:00000000
 "LastTimeRunAsServerFail"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UIData]
-"Version"="3.21.480.100"
+"Version"="3.21.585.100"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\Update]
-"Time"=hex(b):70,e2,08,d8,99,ec,d5,01
+"Time"=hex(b):80,d3,88,15,0c,02,d6,01
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\VDI_100]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\VDI_100"
-"Version"="3.40.40.100"
+"Version"="3.41.46.100"

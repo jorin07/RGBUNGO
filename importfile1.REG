@@ -3,7 +3,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\Tencent]
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC]
-"sf"="X:\\Portable Games\\PUBG Mobile TencentTemp\\TxGameDownload\\MobileGamePCShared"
+"sf"="C:\\Program Files\\TxGameAssistant\\PUBG Mobile TencentTemp\\TxGameDownload\\MobileGamePCShared"
 "UserLanguage"="id"
 "MaxSpeedRecordTime"=hex(b):98,4a,83,5e,00,00,00,00
 "ApkMiniUpdate"=dword:00000001

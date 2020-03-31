@@ -3,56 +3,30 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent]
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC]
-"SupplyId"=dword:35a80a35
-"version"="585"
+"SupplyId"=dword:35a8057c
+"version"="598"
 "HttpdnsWhiteList"="*.fun;*.com;*.net;*.im;"
 "HttpdnsSwitch"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AOW_Rootfs_0]
-"InstallPath"="C:\\Program Files\\TxGameAssistant\\AOW_Rootfs"
+"InstallPath"="X:\\Program Files\\TxGameAssistant\\AOW_Rootfs"
 "Version"="3.31.54.100"
-"InstallDone"=dword:00000002
+"InstallDone"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket]
-"InstallPath"="C:\\Program Files\\TxGameAssistant\\AppMarket"
+"InstallPath"="X:\\Program Files\\TxGameAssistant\\AppMarket"
 "AutoStart"=dword:00000000
-"Version"="3.11.200.100"
-"InstallTime"=hex(b):f0,82,89,2f,69,e3,d5,01
+"Version"="3.11.300.100"
+"InstallTime"=hex(b):70,2c,0d,64,63,07,d6,01
 "chkLastChoice"=dword:00000000
-"AppCrashStrTime"="20200224105647"
-"UpdateFailFileList"="AECommonDll.dll.update|dr.dll.update|msvcp140.dll.update|icudtl.dat.update|en-US.pak.update|natives_blob.bin.update|qb.pak.update|qb_100_percent.pak.update|qb_200_percent.pak.update|qb_extensions.pak.update|snapshot_blob.bin.update|vcruntime140.dll.update"
-"NewInstall"=dword:00000001
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupBafuTipsHistory]
-"adg_BuffTip_pl"="id=69953|"
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupBafuTipsLastTime]
-"adg_BuffTip_lt"=hex(b):7f,f0,46,5e,00,00,00,00
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupGameNoticeHistory]
-"adg_NoAskChecked_pl"="id=70904|"
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupTipsHistory]
-"adg_GameRelease_pl"="id=70926|"
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupTipsLastTime]
-"adg_GameRelease_lt"=hex(b):dd,87,f3,5d,00,00,00,00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UI]
-"InstallPath"="C:\\Program Files\\TxGameAssistant\\UI"
-"Version"="3.21.585.100"
+"InstallPath"="X:\\Program Files\\TxGameAssistant\\UI"
+"Version"="3.21.598.100"
 "SnapshotPath"="C:\\ProgramData\\Tencent\\TxGameAssistant\\Snapshot"
-"StartCount"=dword:00000016
-"LastTimeSuccess"=dword:00000001
-"local_opengl_start"=dword:00000000
-"LastTimeRunAsServerFail"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UIData]
-"Version"="3.21.585.100"
+"Version"="3.21.598.100"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\Update]
-"Time"=hex(b):80,d3,88,15,0c,02,d6,01
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\VDI_100]
-"InstallPath"="C:\\Program Files\\TxGameAssistant\\VDI_100"
-"Version"="3.41.46.100"
+"Time"=hex(b):80,b9,cb,80,63,07,d6,01

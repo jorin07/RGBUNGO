@@ -9,19 +9,19 @@ Windows Registry Editor Version 5.00
 "HttpdnsSwitch"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AOW_Rootfs_0]
-"InstallPath"="X:\\Program Files\\TxGameAssistant\\AOW_Rootfs"
+"InstallPath"="C:\\Program Files\\TxGameAssistant\\AOW_Rootfs"
 "Version"="3.31.54.100"
 "InstallDone"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket]
-"InstallPath"="X:\\Program Files\\TxGameAssistant\\AppMarket"
+"InstallPath"="C:\\Program Files\\TxGameAssistant\\AppMarket"
 "AutoStart"=dword:00000000
 "Version"="3.11.300.100"
 "InstallTime"=hex(b):70,2c,0d,64,63,07,d6,01
 "chkLastChoice"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UI]
-"InstallPath"="X:\\Program Files\\TxGameAssistant\\UI"
+"InstallPath"="C:\\Program Files\\TxGameAssistant\\UI"
 "Version"="3.21.598.100"
 "SnapshotPath"="C:\\ProgramData\\Tencent\\TxGameAssistant\\Snapshot"
 

@@ -3,76 +3,35 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\Tencent]
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC]
-"UserLanguage"="0"
-"MaxSpeedRecordTime"=hex(b):95,4f,a0,5e,00,00,00,00
+"TempPath"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\TxGameDownload\\Component\\"
+"UserLanguage"="id"
+"Keyword"="a19440"
+"sf"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\TxGameDownload\\MobileGamePCShared"
 "ApkMiniUpdate"=dword:00000001
-"HideAdvancedWatermark"=dword:00000001
-"RecommendLocalSwitch"=dword:00000000
-"download_mode"=dword:00000000
-"ForceDirectX"=dword:00000001
-"EnableGLESv3"=dword:00000001
-"ShaderCacheEnabled"=dword:00000000
-"LocalShaderCacheEnabled"=dword:00000000
+"HideAdvancedWatermark"=dword:00000000
+"RecommendLocalSwitch"=dword:00000001
+"TGVoiceLocalSwitch"=dword:00000001
+"download_mode"=dword:00000002
+"custom_max_download_speed"=dword:000007d0
+"ForceDirectX"=dword:00000003
+"EnableGLESv3"=dword:00000000
+"ShaderCacheEnabled"=dword:00000001
+"LocalShaderCacheEnabled"=dword:00000001
 "GraphicsCardEnabled"=dword:00000001
-"RenderOptimizeEnabled"=dword:00000000
-"VMMemorySizeInMB"=dword:00000000
+"FxaaQuality"=dword:00000002
+"VMMemorySizeInMB"=dword:00001000
+"VMCpuCount"=dword:00000004
 "VMResWidth"=dword:00000780
 "VMResHeight"=dword:00000438
-"VMDPI"=dword:000000f0
-"RecommendCloudSwitch"=dword:00000001
-"FxaaQuality"=dword:00000000
-"VMCpuCount"=dword:00000000
-"DirectxVersion"=dword:0000000b
-"EmulatorTopMostStatus"=dword:00000000
-"syzs_emulator_hwnd"=dword:00000000
-"CPUScore"=dword:0000157c
-"ml_timer_user_switch"=dword:00000001
-"ml_timer_user_version"=dword:000000c9
-"ml_timer_sys_version"=dword:000000c9
-"ml_timer_update_tips_switch"=dword:00000001
-"last_game_update_tips_show_time"=hex(b):e5,16,8e,5e,00,00,00,00
-"VtEnable"=dword:00000001
-"sf"="C:\\Temp\\TxGameDownload\\MobileGamePCShared"
-"com.tencent.ig_ContentScale"=dword:00000001
-"com.tencent.ig_RenderQuality"=dword:00000002
-"com.activision.callofduty.shooter_ContentScale"=dword:00000001
-"com.activision.callofduty.shooter_RenderQuality"=dword:00000002
-
-[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\ClientPayTip]
-
-[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\ClientPayTip\com.dts.freefireth]
-"ClientPayTipID"=dword:00000001
-"ClientPayTipFrequency"=dword:00000002
-"ClientPayTipRecord"=dword:0000000b
+"VMDPI"=dword:000001e0
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\EngineFalgs]
 "AowInstalling"=dword:00000000
-"Vdi71Installing"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\GameDownload]
-"DownloadSpeed"=dword:00000545
+"DownloadSpeed"=dword:00000ac1
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\GameDownload\IpListCache]
-
-[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\GameHistory]
-"ReverseOrder"="bahamas.serietv4|com.lonelycatgames.Xplore|com.apkpure.installer|com.android.packageinstaller|com.android.settings|com.android.documentsui|com.garena.game.codm|com.dts.freefireth|com.tencent.ig|com.mobile.legends|com.dragonest.autochess.google"
-
-[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\InstallFlags]
-
-[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\NewOpGuidTip]
-"pubg_mobile_userinfo2"="7269709091570984:RG''NANDO:5124360610"
-"com.garena.game.codm"=dword:00000001
-
-[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\RunFalgs]
-"ApkName"="bahamas.serietv4"
-"MatchRuleApk"="com.tencent.ig"
-"ApkRuning"=dword:00000000
-"GameStatus"=dword:00000000
-"MatchRuleId"=dword:00000026
-"RendererEngine"=dword:00000002
-
-[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\VolatileInfo]
-"EmetFlag"=dword:00000001
 
 [HKEY_CURRENT_USER\Software\Tencent\QQ]
 
@@ -88,6 +47,6 @@ Windows Registry Editor Version 5.00
 "utility"=hex:01,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00
 
 [HKEY_CURRENT_USER\Software\Tencent\TBS\Wup]
-"ClientGuid"="F80BC1667C16135622DDDD58377988CB"
-"ValidationGuid"="B0981544B9099B5EA7568BEF3C8C0C97034722DEFE62831D"
-"ClientToken"="hb+3ADAscUYD7AODskVHK/P3Resjy6+2Be0dpJx9O7OsAo5HqQwv3S+8Mj1FhjQLNeqSMWomrYFVsxPmI+GlnmVXO0I23ncTtfjgbsEldiwQng/sIeihQQLzcMJjBcRyT/e4Ah9HrwR6aY2PxPPGOmwlZ4ZdxQaE"
+"ClientToken"="CgkWxYc0z9KnPFt+t2JoTnJImGPTGVJPaAkxcrW5kGwKB3T3drXb/zI+qlvRGepdhDw1lvleowlFFg1vudTMzXwKEgoxWbE1MuvgSaKXLIkfvXWayGVH5QLzcMJjBcRyT/e4Ah9HrwR6aY2PxPPGOmwlZ4ZdxQaE"
+"ClientGuid"="7BBDED06FFA2FE4CA0CD82DB377988CB"
+"ValidationGuid"="1A4A958C50473E3F3D0C6EE98E5260ACB5DA3433A44314E5"

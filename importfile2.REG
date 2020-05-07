@@ -3,45 +3,31 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent]
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC]
-"SupplyId"=dword:35a8057c
-"version"="705"
+"SupplyId"=dword:35a80da7
+"version"="736"
 "HttpdnsWhiteList"="*.fun;*.com;*.net;*.im;"
-"HttpdnsSwitch"=dword:00000001
 "HttpdnsBlackList"="web-proxy.tencent.com;"
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AEngine]
-"GpuScore"=dword:00000437
-"CpuScore"=dword:0000157c
+"HttpdnsSwitch"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AOW_Rootfs_0]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\AOW_Rootfs"
 "Version"="3.31.54.100"
-"InstallDone"=dword:00000002
+"InstallDone"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\AppMarket"
 "AutoStart"=dword:00000000
-"Version"="3.11.353.100"
-"InstallTime"=hex(b):70,2c,0d,64,63,07,d6,01
+"Version"="3.11.377.100"
+"InstallTime"=hex(b):90,4d,3c,ea,81,24,d6,01
 "chkLastChoice"=dword:00000000
-"NewInstall"=dword:00000001
-"AppCrashStrTime"="20200422211901"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UI]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\UI"
-"Version"="3.21.705.100"
-"SnapshotPath"="C:\\Users\\RESPAWN\\Desktop"
-"StartCount"=dword:00000005
-"LastTimeSuccess"=dword:00000001
-"local_opengl_start"=dword:00000000
-"LastTimeRunAsServerFail"=dword:00000000
+"Version"="3.21.736.100"
+"SnapshotPath"="C:\\ProgramData\\Tencent\\TxGameAssistant\\Snapshot"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UIData]
-"Version"="3.21.705.100"
+"Version"="3.21.736.100"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\Update]
-"Time"=hex(b):20,7d,17,f3,ad,18,d6,01
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\VDI_100]
-"Version"="3.41.46.100"
-"InstallPath"="C:\\Program Files\\TxGameAssistant\\VDI_100"
+"Time"=hex(b):b0,fa,40,7c,82,24,d6,01

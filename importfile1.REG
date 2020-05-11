@@ -3,7 +3,6 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\Tencent]
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC]
-"TempPath"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\TxGameDownload\\Component\\"
 "UserLanguage"="id"
 "Keyword"="a19440"
 "sf"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\TxGameDownload\\MobileGamePCShared"
@@ -24,14 +23,46 @@ Windows Registry Editor Version 5.00
 "VMResWidth"=dword:00000780
 "VMResHeight"=dword:00000438
 "VMDPI"=dword:000001e0
+"RecommendCloudSwitch"=dword:00000001
+"MaxSpeedRecordTime"=hex(b):6f,2a,b4,5e,00,00,00,00
+"EmulatorTopMostStatus"=dword:00000000
+"syzs_emulator_hwnd"=dword:0013015c
+"CPUScore"=dword:0000157c
+"DirectxVersion"=dword:0000000b
+"ml_timer_user_switch"=dword:00000001
+"ml_timer_user_version"=dword:000000c9
+"ml_timer_sys_version"=dword:000000c9
+"ml_timer_update_tips_switch"=dword:00000001
+"VtEnable"=dword:00000001
+"TempPath"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\TxGameDownload\\Component\\"
+"com.tencent.ig_ContentScale"=dword:00000001
+"com.tencent.ig_RenderQuality"=dword:00000002
+"com.activision.callofduty.shooter_ContentScale"=dword:00000001
+"com.activision.callofduty.shooter_RenderQuality"=dword:00000002
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\EngineFalgs]
 "AowInstalling"=dword:00000000
+"Vdi71Installing"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\GameDownload]
 "DownloadSpeed"=dword:00000ac1
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\GameDownload\IpListCache]
+
+[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\GameHistory]
+"ReverseOrder"="android|com.supercell.hayday|com.tencent.ig|com.pixonic.wwr|com.netease.g104na.gb"
+
+[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\NewOpGuidTip]
+"pubg_mobile_userinfo2"="2383651216426280:ArcStalkerニ乃:543774984"
+"com.tencent.ig-dpiguid"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\RunFalgs]
+"MatchRuleId"=dword:00000099
+"MatchRuleApk"="com.supercell.hayday"
+"ApkRuning"=dword:00000001
+"ApkName"="com.google.android.gms"
+"RendererEngine"=dword:00000002
+"GameStatus"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\Tencent\QQ]
 

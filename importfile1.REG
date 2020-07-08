@@ -1,44 +1,70 @@
-Windows Registry Editor Version 5.00
+﻿Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\Software\Tencent]
 
+[HKEY_CURRENT_USER\Software\Tencent\Europa]
+"ProfileReportDirty"=dword:00000000
+"HarwareInfoReportDirty"=dword:00000000
+
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC]
-"UserLanguage"="id"
-"Keyword"="a19440"
+"RecommendCloudSwitch"=dword:00000001
 "sf"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\TxGameDownload\\MobileGamePCShared"
+"UserLanguage"="id"
+"MaxSpeedRecordTime"=hex(b):6f,2a,b4,5e,00,00,00,00
+"syzs_country"="ÃƒÂ¥Ã‚ÂÃ‚Â°ÃƒÂ¥Ã‚ÂºÃ‚Â¦ÃƒÂ¥Ã‚Â°Ã‚Â¼ÃƒÂ¨Ã‚Â¥Ã‚Â¿ÃƒÂ¤Ã‚ÂºÃ…Â¡"
 "ApkMiniUpdate"=dword:00000001
 "HideAdvancedWatermark"=dword:00000000
-"RecommendLocalSwitch"=dword:00000001
 "TGVoiceLocalSwitch"=dword:00000001
 "download_mode"=dword:00000002
-"custom_max_download_speed"=dword:000007d0
 "ForceDirectX"=dword:00000003
 "EnableGLESv3"=dword:00000000
 "ShaderCacheEnabled"=dword:00000001
-"LocalShaderCacheEnabled"=dword:00000001
 "GraphicsCardEnabled"=dword:00000001
-"FxaaQuality"=dword:00000002
+"RenderOptimizeEnabled"=dword:00000000
 "VMMemorySizeInMB"=dword:00001000
 "VMCpuCount"=dword:00000004
 "VMResWidth"=dword:00000780
 "VMResHeight"=dword:00000438
 "VMDPI"=dword:000001e0
-"RecommendCloudSwitch"=dword:00000001
-"MaxSpeedRecordTime"=hex(b):6f,2a,b4,5e,00,00,00,00
+"TGVoiceCloudSwitch"=dword:00000001
 "EmulatorTopMostStatus"=dword:00000000
-"syzs_emulator_hwnd"=dword:0013015c
-"CPUScore"=dword:0000157c
 "DirectxVersion"=dword:0000000b
 "ml_timer_user_switch"=dword:00000001
 "ml_timer_user_version"=dword:000000c9
 "ml_timer_sys_version"=dword:000000c9
 "ml_timer_update_tips_switch"=dword:00000001
 "VtEnable"=dword:00000001
-"TempPath"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\TxGameDownload\\Component\\"
+"syzs_emulator_hwnd"=dword:0013015c
+"last_game_update_tips_show_time"=hex(b):a8,77,f3,5e,00,00,00,00
+"FxaaQuality"=dword:00000002
+"CPUScore"=dword:0000157c
+"RecommendLocalSwitch"=dword:00000001
+"LocalShaderCacheEnabled"=dword:00000001
 "com.tencent.ig_ContentScale"=dword:00000001
 "com.tencent.ig_RenderQuality"=dword:00000002
 "com.activision.callofduty.shooter_ContentScale"=dword:00000001
 "com.activision.callofduty.shooter_RenderQuality"=dword:00000002
+"TempPath"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\TxGameDownload\\Component\\"
+"Keyword"="a19440"
+"custom_max_download_speed"=dword:000007d0
+"ShowTvoiceTips"=dword:000003e7
+
+[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\ClientPayTip]
+
+[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\ClientPayTip\com.dts.freefireth]
+"ClientPayTipID"=dword:00000001
+"ClientPayTipFrequency"=dword:00000002
+"ClientPayTipRecord"=dword:00000018
+
+[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\ClientPayTip\com.mobile.legends]
+"ClientPayTipID"=dword:00000001
+"ClientPayTipFrequency"=dword:00000002
+"ClientPayTipRecord"=dword:00000017
+
+[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\ClientPayTip\com.tencent.ig]
+"ClientPayTipID"=dword:00000068
+"ClientPayTipFrequency"=dword:00000002
+"ClientPayTipRecord"=dword:00000013
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\EngineFalgs]
 "AowInstalling"=dword:00000000
@@ -52,8 +78,16 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\GameHistory]
 "ReverseOrder"="android|com.supercell.hayday|com.tencent.ig|com.pixonic.wwr|com.netease.g104na.gb"
 
+[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\InstallFlags]
+
+[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\NetBoosterCfg]
+"NetBoosterVersion"=dword:00000001
+"NetBoosterSwitch"=dword:00000001
+"NetBoosterGameList"="com.activision.callofduty.shooter"
+
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\NewOpGuidTip]
-"pubg_mobile_userinfo2"="2383651216426280:ArcStalkerニ乃:543774984"
+"com.garena.game.codm"=dword:00000001
+"pubg_mobile_userinfo2"="2383651216426280:ArcStalkerãƒ‹ä¹ƒ:543774984"
 "com.tencent.ig-dpiguid"=dword:00000001
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\RunFalgs]
@@ -63,6 +97,19 @@ Windows Registry Editor Version 5.00
 "ApkName"="com.google.android.gms"
 "RendererEngine"=dword:00000002
 "GameStatus"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\TGVoiceCloudCfg]
+"TGVoiceCloudSwitch"="com.tencent.ig|com.tencent.tmgp.pubgmhd"
+
+[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\TGVoiceEntryTip]
+
+[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\TGVoiceEntryTip\com.tencent.tmgp.pubgmhd]
+"TGVoiceEntryTipID"=dword:00000065
+"TGVoiceEntryTipFrequency"=dword:00000002
+"TGVoiceEntryTipRecord"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\VolatileInfo]
+"EmetFlag"=dword:00000001
 
 [HKEY_CURRENT_USER\Software\Tencent\QQ]
 
@@ -77,7 +124,23 @@ Windows Registry Editor Version 5.00
 "renderer"=hex:01,00,00,00,00,00,00,00,01,00,00,00,02,00,00,00
 "utility"=hex:01,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00
 
+[HKEY_CURRENT_USER\Software\Tencent\TBS\PrivateCfg]
+
+[HKEY_CURRENT_USER\Software\Tencent\TBS\PrivateCfg\Config_ninre]
+"gfwebctrl"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Tencent\TBS\PrivateCfg\TBSCC_DCFLVL]
+"qq"=dword:000000aa
+"tgp"=dword:000000aa
+
+[HKEY_CURRENT_USER\Software\Tencent\TBS\PrivateCfg\TBSCC_ENSFS]
+"tgp"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Tencent\TBS\UserExpPlan]
+"wechat-company"=dword:00000001
+"wechat"=dword:00000001
+
 [HKEY_CURRENT_USER\Software\Tencent\TBS\Wup]
-"ClientToken"="CgkWxYc0z9KnPFt+t2JoTnJImGPTGVJPaAkxcrW5kGwKB3T3drXb/zI+qlvRGepdhDw1lvleowlFFg1vudTMzXwKEgoxWbE1MuvgSaKXLIkfvXWayGVH5QLzcMJjBcRyT/e4Ah9HrwR6aY2PxPPGOmwlZ4ZdxQaE"
 "ClientGuid"="7BBDED06FFA2FE4CA0CD82DB377988CB"
 "ValidationGuid"="1A4A958C50473E3F3D0C6EE98E5260ACB5DA3433A44314E5"
+"ClientToken"="hb+3ADAscUYD7AODskVHK9KxPglhtSJGW9xn2yH/3OY8dlxEVe5KDg6T8omHvvm+ogDjO8f4VEdVsxPmI+GlnmVXO0I23ncTtfjgbsEldiwQng/sIeihQQLzcMJjBcRyT/e4Ah9HrwR6aY2PxPPGOmwlZ4ZdxQaE"

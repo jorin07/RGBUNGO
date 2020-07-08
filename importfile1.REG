@@ -7,47 +7,51 @@
 "HarwareInfoReportDirty"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC]
-"RecommendCloudSwitch"=dword:00000001
-"sf"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\TxGameDownload\\MobileGamePCShared"
 "UserLanguage"="id"
-"MaxSpeedRecordTime"=hex(b):6f,2a,b4,5e,00,00,00,00
-"syzs_country"="ÃƒÂ¥Ã‚ÂÃ‚Â°ÃƒÂ¥Ã‚ÂºÃ‚Â¦ÃƒÂ¥Ã‚Â°Ã‚Â¼ÃƒÂ¨Ã‚Â¥Ã‚Â¿ÃƒÂ¤Ã‚ÂºÃ…Â¡"
+"Keyword"="a19440"
+"sf"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\TxGameDownload\\MobileGamePCShared"
 "ApkMiniUpdate"=dword:00000001
-"HideAdvancedWatermark"=dword:00000000
+"HideAdvancedWatermark"=dword:00000001
+"RecommendLocalSwitch"=dword:00000001
 "TGVoiceLocalSwitch"=dword:00000001
 "download_mode"=dword:00000002
-"ForceDirectX"=dword:00000003
-"EnableGLESv3"=dword:00000000
-"ShaderCacheEnabled"=dword:00000001
+"custom_max_download_speed"=dword:000007d0
+"ForceDirectX"=dword:00000001
+"EnableGLESv3"=dword:00000001
+"ShaderCacheEnabled"=dword:00000000
+"LocalShaderCacheEnabled"=dword:00000000
 "GraphicsCardEnabled"=dword:00000001
-"RenderOptimizeEnabled"=dword:00000000
-"VMMemorySizeInMB"=dword:00001000
-"VMCpuCount"=dword:00000004
+"FxaaQuality"=dword:00000000
+"VMMemorySizeInMB"=dword:00000000
+"VMCpuCount"=dword:00000000
 "VMResWidth"=dword:00000780
 "VMResHeight"=dword:00000438
-"VMDPI"=dword:000001e0
-"TGVoiceCloudSwitch"=dword:00000001
+"VMDPI"=dword:000000f0
+"RecommendCloudSwitch"=dword:00000001
+"MaxSpeedRecordTime"=hex(b):6f,2a,b4,5e,00,00,00,00
 "EmulatorTopMostStatus"=dword:00000000
+"syzs_emulator_hwnd"=dword:0013015c
+"CPUScore"=dword:0000157c
 "DirectxVersion"=dword:0000000b
 "ml_timer_user_switch"=dword:00000001
 "ml_timer_user_version"=dword:000000c9
 "ml_timer_sys_version"=dword:000000c9
 "ml_timer_update_tips_switch"=dword:00000001
 "VtEnable"=dword:00000001
-"syzs_emulator_hwnd"=dword:0013015c
-"last_game_update_tips_show_time"=hex(b):a8,77,f3,5e,00,00,00,00
-"FxaaQuality"=dword:00000002
-"CPUScore"=dword:0000157c
-"RecommendLocalSwitch"=dword:00000001
-"LocalShaderCacheEnabled"=dword:00000001
+"TempPath"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\TxGameDownload\\Component\\"
 "com.tencent.ig_ContentScale"=dword:00000001
 "com.tencent.ig_RenderQuality"=dword:00000002
 "com.activision.callofduty.shooter_ContentScale"=dword:00000001
-"com.activision.callofduty.shooter_RenderQuality"=dword:00000002
-"TempPath"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\TxGameDownload\\Component\\"
-"Keyword"="a19440"
-"custom_max_download_speed"=dword:000007d0
+"com.activision.callofduty.shooter_RenderQuality"=dword:00000000
+"KeyMindTipsPressed"=dword:00000001
+"last_game_update_tips_show_time"=hex(b):a8,77,f3,5e,00,00,00,00
+"syzs_country"="ÃƒÂ¥Ã‚ÂÃ‚Â°ÃƒÂ¥Ã‚ÂºÃ‚Â¦ÃƒÂ¥Ã‚Â°Ã‚Â¼ÃƒÂ¨Ã‚Â¥Ã‚Â¿ÃƒÂ¤Ã‚ÂºÃ…Â¡"
+"RenderOptimizeEnabled"=dword:00000000
+"TGVoiceCloudSwitch"=dword:00000001
 "ShowTvoiceTips"=dword:000003e7
+
+[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\Beacon]
+"Last_Sid_AndroidEmulator.exe"="2B896D9C-BCEF-4204-AA11-D68BAFDF311D"
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\ClientPayTip]
 
@@ -86,9 +90,9 @@
 "NetBoosterGameList"="com.activision.callofduty.shooter"
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\NewOpGuidTip]
-"com.garena.game.codm"=dword:00000001
 "pubg_mobile_userinfo2"="2383651216426280:ArcStalkerãƒ‹ä¹ƒ:543774984"
 "com.tencent.ig-dpiguid"=dword:00000001
+"com.garena.game.codm"=dword:00000001
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\RunFalgs]
 "MatchRuleId"=dword:00000099

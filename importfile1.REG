@@ -17,12 +17,12 @@
 "download_mode"=dword:00000002
 "custom_max_download_speed"=dword:000007d0
 "ForceDirectX"=dword:00000003
-"EnableGLESv3"=dword:00000000
-"ShaderCacheEnabled"=dword:00000000
-"LocalShaderCacheEnabled"=dword:00000000
+"EnableGLESv3"=dword:00000001
+"ShaderCacheEnabled"=dword:00000001
+"LocalShaderCacheEnabled"=dword:00000001
 "GraphicsCardEnabled"=dword:00000001
 "FxaaQuality"=dword:00000000
-"VMMemorySizeInMB"=dword:00000000
+"VMMemorySizeInMB"=dword:00004000
 "VMCpuCount"=dword:00000000
 "VMResWidth"=dword:00000780
 "VMResHeight"=dword:00000438

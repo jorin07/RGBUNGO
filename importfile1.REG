@@ -1,4 +1,4 @@
-﻿Windows Registry Editor Version 5.00
+Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\Software\Tencent]
 
@@ -7,51 +7,51 @@
 "HarwareInfoReportDirty"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC]
-"UserLanguage"="id"
-"Keyword"="a19440"
+"MaxSpeedRecordTime"=hex(b):9c,56,18,5f,00,00,00,00
+"RecommendCloudSwitch"=dword:00000001
 "sf"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\TxGameDownload\\MobileGamePCShared"
+"UserLanguage"="id"
+"syzs_country"="ÃƒÂ¥Ã‚ÂÃ‚Â°ÃƒÂ¥Ã‚ÂºÃ‚Â¦ÃƒÂ¥Ã‚Â°Ã‚Â¼ÃƒÂ¨Ã‚Â¥Ã‚Â¿ÃƒÂ¤Ã‚ÂºÃ…Â¡"
 "ApkMiniUpdate"=dword:00000001
 "HideAdvancedWatermark"=dword:00000001
-"RecommendLocalSwitch"=dword:00000001
 "TGVoiceLocalSwitch"=dword:00000001
 "download_mode"=dword:00000002
-"custom_max_download_speed"=dword:000007d0
 "ForceDirectX"=dword:00000003
-"EnableGLESv3"=dword:00000001
+"EnableGLESv3"=dword:00000000
 "ShaderCacheEnabled"=dword:00000001
-"LocalShaderCacheEnabled"=dword:00000001
 "GraphicsCardEnabled"=dword:00000001
-"FxaaQuality"=dword:00000000
-"VMMemorySizeInMB"=dword:00004000
+"RenderOptimizeEnabled"=dword:00000000
+"VMMemorySizeInMB"=dword:00000000
 "VMCpuCount"=dword:00000000
 "VMResWidth"=dword:00000780
 "VMResHeight"=dword:00000438
 "VMDPI"=dword:000000f0
-"RecommendCloudSwitch"=dword:00000001
-"MaxSpeedRecordTime"=hex(b):6f,2a,b4,5e,00,00,00,00
+"TGVoiceCloudSwitch"=dword:00000001
 "EmulatorTopMostStatus"=dword:00000000
-"syzs_emulator_hwnd"=dword:0013015c
-"CPUScore"=dword:0000157c
 "DirectxVersion"=dword:0000000b
 "ml_timer_user_switch"=dword:00000001
 "ml_timer_user_version"=dword:000000c9
 "ml_timer_sys_version"=dword:000000c9
 "ml_timer_update_tips_switch"=dword:00000001
 "VtEnable"=dword:00000001
-"TempPath"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\TxGameDownload\\Component\\"
+"syzs_emulator_hwnd"=dword:00000000
+"last_game_update_tips_show_time"=hex(b):a8,77,f3,5e,00,00,00,00
+"FxaaQuality"=dword:00000000
+"CPUScore"=dword:0000157c
+"RecommendLocalSwitch"=dword:00000001
+"LocalShaderCacheEnabled"=dword:00000000
 "com.tencent.ig_ContentScale"=dword:00000001
 "com.tencent.ig_RenderQuality"=dword:00000002
 "com.activision.callofduty.shooter_ContentScale"=dword:00000001
 "com.activision.callofduty.shooter_RenderQuality"=dword:00000000
-"KeyMindTipsPressed"=dword:00000001
-"last_game_update_tips_show_time"=hex(b):a8,77,f3,5e,00,00,00,00
-"syzs_country"="ÃƒÂ¥Ã‚ÂÃ‚Â°ÃƒÂ¥Ã‚ÂºÃ‚Â¦ÃƒÂ¥Ã‚Â°Ã‚Â¼ÃƒÂ¨Ã‚Â¥Ã‚Â¿ÃƒÂ¤Ã‚ÂºÃ…Â¡"
-"RenderOptimizeEnabled"=dword:00000000
-"TGVoiceCloudSwitch"=dword:00000001
+"TempPath"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\TxGameDownload\\Component\\"
+"Keyword"="a19440"
+"custom_max_download_speed"=dword:000007d0
 "ShowTvoiceTips"=dword:000003e7
+"KeyMindTipsPressed"=dword:00000001
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\Beacon]
-"Last_Sid_AndroidEmulator.exe"="2B896D9C-BCEF-4204-AA11-D68BAFDF311D"
+"Last_Sid_AndroidEmulator.exe"="E9511CDC-50CE-49ED-A34E-530DBB9A5C3C"
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\ClientPayTip]
 
@@ -75,7 +75,7 @@
 "Vdi71Installing"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\GameDownload]
-"DownloadSpeed"=dword:00000ac1
+"DownloadSpeed"=dword:0000060d
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\GameDownload\IpListCache]
 
@@ -90,14 +90,14 @@
 "NetBoosterGameList"="com.activision.callofduty.shooter"
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\NewOpGuidTip]
+"com.garena.game.codm"=dword:00000001
 "pubg_mobile_userinfo2"="2383651216426280:ArcStalkerãƒ‹ä¹ƒ:543774984"
 "com.tencent.ig-dpiguid"=dword:00000001
-"com.garena.game.codm"=dword:00000001
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\RunFalgs]
 "MatchRuleId"=dword:00000099
 "MatchRuleApk"="com.supercell.hayday"
-"ApkRuning"=dword:00000001
+"ApkRuning"=dword:00000000
 "ApkName"="com.google.android.gms"
 "RendererEngine"=dword:00000002
 "GameStatus"=dword:00000000
@@ -147,4 +147,4 @@
 [HKEY_CURRENT_USER\Software\Tencent\TBS\Wup]
 "ClientGuid"="7BBDED06FFA2FE4CA0CD82DB377988CB"
 "ValidationGuid"="1A4A958C50473E3F3D0C6EE98E5260ACB5DA3433A44314E5"
-"ClientToken"="hb+3ADAscUYD7AODskVHK9KxPglhtSJGW9xn2yH/3OY8dlxEVe5KDg6T8omHvvm+ogDjO8f4VEdVsxPmI+GlnmVXO0I23ncTtfjgbsEldiwQng/sIeihQQLzcMJjBcRyT/e4Ah9HrwR6aY2PxPPGOmwlZ4ZdxQaE"
+"ClientToken"="hb+3ADAscUYD7AODskVHK9jmCYdzgXtm5uuoLBla8rvo8snpSHvnbYv+xGQkh3hQCyDy7+InO/ZVsxPmI+GlnmVXO0I23ncTtfjgbsEldiwQng/sIeihQQLzcMJjBcRyT/e4Ah9HrwR6aY2PxPPGOmwlZ4ZdxQaE"

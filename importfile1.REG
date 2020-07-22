@@ -16,8 +16,8 @@
 "TGVoiceLocalSwitch"=dword:00000001
 "download_mode"=dword:00000002
 "custom_max_download_speed"=dword:000007d0
-"ForceDirectX"=dword:00000001
-"EnableGLESv3"=dword:00000001
+"ForceDirectX"=dword:00000000
+"EnableGLESv3"=dword:00000000
 "ShaderCacheEnabled"=dword:00000000
 "LocalShaderCacheEnabled"=dword:00000000
 "GraphicsCardEnabled"=dword:00000001

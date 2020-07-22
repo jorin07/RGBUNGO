@@ -32,7 +32,7 @@
 "EmulatorTopMostStatus"=dword:00000000
 "syzs_emulator_hwnd"=dword:0013015c
 "CPUScore"=dword:0000157c
-"DirectxVersion"=dword:00000009
+"DirectxVersion"=dword:0000000b
 "ml_timer_user_switch"=dword:00000001
 "ml_timer_user_version"=dword:000000c9
 "ml_timer_sys_version"=dword:000000c9

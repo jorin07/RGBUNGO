@@ -16,7 +16,7 @@
 "TGVoiceLocalSwitch"=dword:00000001
 "download_mode"=dword:00000002
 "custom_max_download_speed"=dword:000007d0
-"ForceDirectX"=dword:00000000
+"ForceDirectX"=dword:00000003
 "EnableGLESv3"=dword:00000000
 "ShaderCacheEnabled"=dword:00000000
 "LocalShaderCacheEnabled"=dword:00000000
@@ -32,7 +32,7 @@
 "EmulatorTopMostStatus"=dword:00000000
 "syzs_emulator_hwnd"=dword:0013015c
 "CPUScore"=dword:0000157c
-"DirectxVersion"=dword:0000000b
+"DirectxVersion"=dword:00000009
 "ml_timer_user_switch"=dword:00000001
 "ml_timer_user_version"=dword:000000c9
 "ml_timer_sys_version"=dword:000000c9

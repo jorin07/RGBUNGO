@@ -11,7 +11,7 @@ Windows Registry Editor Version 5.00
 "RecommendCloudSwitch"=dword:00000001
 "sf"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\TxGameDownload\\MobileGamePCShared"
 "UserLanguage"="id"
-"syzs_country"="ÃƒÂ¥Ã‚ÂÃ‚Â°ÃƒÂ¥Ã‚ÂºÃ‚Â¦ÃƒÂ¥Ã‚Â°Ã‚Â¼ÃƒÂ¨Ã‚Â¥Ã‚Â¿ÃƒÂ¤Ã‚ÂºÃ…Â¡"
+"syzs_country"="ÃƒÆ’Ã‚Â¥Ãƒâ€šÃ‚ÂÃƒâ€šÃ‚Â°ÃƒÆ’Ã‚Â¥Ãƒâ€šÃ‚ÂºÃƒâ€šÃ‚Â¦ÃƒÆ’Ã‚Â¥Ãƒâ€šÃ‚Â°Ãƒâ€šÃ‚Â¼ÃƒÆ’Ã‚Â¨Ãƒâ€šÃ‚Â¥Ãƒâ€šÃ‚Â¿ÃƒÆ’Ã‚Â¤Ãƒâ€šÃ‚ÂºÃƒâ€¦Ã‚Â¡"
 "ApkMiniUpdate"=dword:00000001
 "HideAdvancedWatermark"=dword:00000001
 "TGVoiceLocalSwitch"=dword:00000001
@@ -49,6 +49,7 @@ Windows Registry Editor Version 5.00
 "custom_max_download_speed"=dword:000007d0
 "ShowTvoiceTips"=dword:000003e7
 "KeyMindTipsPressed"=dword:00000001
+"aow-251658242"=dword:00000001
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\Beacon]
 "Last_Sid_AndroidEmulator.exe"="E9511CDC-50CE-49ED-A34E-530DBB9A5C3C"
@@ -91,7 +92,7 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\NewOpGuidTip]
 "com.garena.game.codm"=dword:00000001
-"pubg_mobile_userinfo2"="2383651216426280:ArcStalkerãƒ‹ä¹ƒ:543774984"
+"pubg_mobile_userinfo2"="2383651216426280:ArcStalkerÃ£Æ’â€¹Ã¤Â¹Æ’:543774984"
 "com.tencent.ig-dpiguid"=dword:00000001
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\RunFalgs]
@@ -147,4 +148,4 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\Tencent\TBS\Wup]
 "ClientGuid"="7BBDED06FFA2FE4CA0CD82DB377988CB"
 "ValidationGuid"="1A4A958C50473E3F3D0C6EE98E5260ACB5DA3433A44314E5"
-"ClientToken"="hb+3ADAscUYD7AODskVHK9jmCYdzgXtm5uuoLBla8rvo8snpSHvnbYv+xGQkh3hQCyDy7+InO/ZVsxPmI+GlnmVXO0I23ncTtfjgbsEldiwQng/sIeihQQLzcMJjBcRyT/e4Ah9HrwR6aY2PxPPGOmwlZ4ZdxQaE"
+"ClientToken"="hb+3ADAscUYD7AODskVHK7DinQiMcqUC6o9Ii7wxwcT30UH9e1ANzLR8TqLPK3hVogDjO8f4VEdVsxPmI+GlnmVXO0I23ncTtfjgbsEldiwQng/sIeihQQLzcMJjBcRyT/e4Ah9HrwR6aY2PxPPGOmwlZ4ZdxQaE"

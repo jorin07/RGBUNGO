@@ -4,7 +4,7 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC]
 "SupplyId"=dword:35a80da7
-"version"="1115"
+"version"="1216"
 "HttpdnsWhiteList"="*.fun;*.com;*.net;*.im;"
 "HttpdnsBlackList"="web-proxy.tencent.com;"
 "HttpdnsSwitch"=dword:00000000
@@ -45,7 +45,7 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UI]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\UI"
-"Version"="3.21.1115.100"
+"Version"="3.21.1216.100"
 "SnapshotPath"="C:\\ProgramData\\Tencent\\TxGameAssistant\\Snapshot"
 "StartCount"=dword:00000003
 "LastTimeSuccess"=dword:00000001
@@ -53,10 +53,10 @@ Windows Registry Editor Version 5.00
 "LastTimeRunAsServerFail"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UIData]
-"Version"="3.21.1115.100"
+"Version"="3.21.1216.100"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\Update]
-"Time"=hex(b):90,04,f4,4f,3a,60,d6,01
+"Time"=hex(b):60,d1,f1,be,31,6e,d6,01
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\VDI_100]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\VDI_100"

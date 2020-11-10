@@ -8,6 +8,7 @@ Windows Registry Editor Version 5.00
 "HttpdnsWhiteList"="*.fun;*.com;*.net;*.im;"
 "HttpdnsBlackList"="web-proxy.tencent.com;"
 "HttpdnsSwitch"=dword:00000000
+"TSyzsVersion"="4.0.46.80"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AEngine]
 "CpuScore"=dword:0000157c
@@ -25,7 +26,7 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\AppMarket"
 "AutoStart"=dword:00000000
-"Version"="3.11.377.100"
+"Version"="3.11.726.100"
 "InstallTime"=hex(b):90,4d,3c,ea,81,24,d6,01
 "chkLastChoice"=dword:00000000
 "AppCrashStrTime"="20200827160142"
@@ -50,17 +51,17 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UI]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\UI"
 "Version"="3.21.1282.100"
-"SnapshotPath"="C:\\ProgramData\\Tencent\\TxGameAssistant\\Snapshot"
-"StartCount"=dword:00000005
+"StartCount"=dword:00000006
 "LastTimeSuccess"=dword:00000001
-"LastTimeRunAsServerFail"=dword:00000000
 "local_opengl_start"=dword:00000000
+"SnapshotPath"="C:\\ProgramData\\Tencent\\TxGameAssistant\\Snapshot"
+"LastTimeRunAsServerFail"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UIData]
 "Version"="3.21.1282.100"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\Update]
-"Time"=hex(b):20,13,1a,f8,37,7d,d6,01
+"Time"=hex(b):00,93,00,fe,9c,b7,d6,01
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\VDI_100]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\VDI_100"

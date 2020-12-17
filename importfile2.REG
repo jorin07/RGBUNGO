@@ -50,7 +50,7 @@ Windows Registry Editor Version 5.00
 "StartCount"=dword:00000006
 "LastTimeSuccess"=dword:00000001
 "local_opengl_start"=dword:00000000
-"SnapshotPath"="C:\\ProgramData\\Tencent\\TxGameAssistant\\Snapshot"
+"SnapshotPath"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\Snapshot"
 "LastTimeRunAsServerFail"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UIData]

@@ -11,8 +11,8 @@ Windows Registry Editor Version 5.00
 "sf"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\TxGameDownload\\MobileGamePCShared"
 "ApkMiniUpdate"=dword:00000001
 "EmulatorTopMostStatus"=dword:00000000
-"syzs_emulator_hwnd"=dword:00000000
-"syzs_country"="å°åº¦å°¼è¥¿äºš"
+"syzs_emulator_hwnd"=dword:00400ef8
+"syzs_country"="印度尼西亚"
 "CPUScore"=dword:0000157c
 "DirectxVersion"=dword:0000000b
 "tsyzs_aow-251658242"=dword:00000001
@@ -23,7 +23,7 @@ Windows Registry Editor Version 5.00
 "EnableGLESv3"=dword:00000000
 "GraphicsCardEnabled"=dword:00000001
 "VSyncEnabled"=dword:00000000
-"VMMemorySizeInMB"=dword:00000800
+"VMMemorySizeInMB"=dword:00001000
 "VMCpuCount"=dword:00000004
 "VMResWidth"=dword:00000780
 "VMResHeight"=dword:00000438
@@ -35,7 +35,7 @@ Windows Registry Editor Version 5.00
 "TGVoiceLocalSwitch"=dword:00000001
 "ShaderCacheEnabled"=dword:00000000
 "RenderOptimizeEnabled"=dword:00000000
-"VMDPI"=dword:00000140
+"VMDPI"=dword:000000f0
 "TGVoiceCloudSwitch"=dword:00000001
 "ml_timer_user_switch"=dword:00000001
 "ml_timer_user_version"=dword:000000c9
@@ -46,20 +46,21 @@ Windows Registry Editor Version 5.00
 "LocalShaderCacheEnabled"=dword:00000000
 "com.activision.callofduty.shooter_ContentScale"=dword:00000001
 "com.activision.callofduty.shooter_RenderQuality"=dword:00000002
-"TempPath"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\TxGameDownload\\Component\\"
 "Keyword"="a19440"
 "custom_max_download_speed"=dword:000007d0
 "ShowTvoiceTips"=dword:000003e7
 "KeyMindTipsPressed"=dword:00000001
 "aow-251658242"=dword:00000001
 "syzs_aow-251658242"=dword:00000001
+"TempPath"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\TxGameDownload\\Component\\"
+"GpsLocation"="22,540323,113,934578"
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\Beacon]
-"Last_Sid_AppMarket.exe"="079771F0-0FA4-4A68-9D57-8B56248C8D5C"
-"Last_Sid_GameDownload.exe"="82FE76B3-DC15-4CED-AC0C-E0B08A00F3A8"
-"Last_Sid_AndroidEmulator.exe"="139B115E-D0B7-4CF2-BAAF-1BD706826FE2"
+"Last_Sid_AppMarket.exe"="BCDAE5C2-1607-4DFC-BBFC-18CE74B08A3A"
+"Last_Sid_GameDownload.exe"="9AD56591-628C-41F8-A472-1E3088247653"
+"Last_Sid_AndroidEmulator.exe"="0F79D07D-2415-41FF-8E0C-66AC42D45A07"
 "Last_Sid_TxGaDcc.exe"="34A1F889-8BD3-4638-982E-D8F3F2B05067"
-"Last_Sid_TUpdate.exe"="0A7618AB-6FF4-479B-A129-DDE6D87430E6"
+"Last_Sid_TUpdate.exe"="49076F51-72F9-4384-8008-148A9FE7C0E6"
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\ClientPayTip]
 
@@ -88,7 +89,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\GameDownload\IpListCache]
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\GameHistory]
-"ReverseOrder"="com.tencent.txgoogleinstaller|com.mobile.legends|android|com.supercell.hayday|com.tencent.ig|com.pixonic.wwr|com.netease.g104na.gb"
+"ReverseOrder"="com.mobile.legends|com.tencent.txgoogleinstaller|android|com.supercell.hayday|com.tencent.ig|com.pixonic.wwr|com.netease.g104na.gb"
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\InstallFlags]
 
@@ -99,14 +100,14 @@ Windows Registry Editor Version 5.00
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\NewOpGuidTip]
 "com.garena.game.codm"=dword:00000001
-"pubg_mobile_userinfo2"="2383651216426280:ArcStalkerÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â£ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬Ãƒâ€šÃ‚Â¹ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¤ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¹ÃƒÆ’Ã¢â‚¬Â ÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢:543774984"
+"pubg_mobile_userinfo2"="2383651216426280:ArcStalkerÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â£ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢ÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â¢ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡Ãƒâ€šÃ‚Â¬ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¹ÃƒÆ’Ã†â€™Ãƒâ€ Ã¢â‚¬â„¢ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¤ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã…Â¡ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¹ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â ÃƒÆ’Ã‚Â¢ÃƒÂ¢Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¢Ã¢â‚¬Å¾Ã‚Â¢:543774984"
 "com.tencent.ig-dpiguid"=dword:00000001
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\RunFalgs]
 "MatchRuleId"=dword:00000080
 "MatchRuleApk"="com.mobile.legends"
-"ApkRuning"=dword:00000000
-"ApkName"="com.tencent.txgoogleinstaller"
+"ApkRuning"=dword:00000001
+"ApkName"="com.mobile.legends"
 "RendererEngine"=dword:00000002
 "GameStatus"=dword:00000000
 

@@ -4,7 +4,7 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC]
 "SupplyId"=dword:35a80da7
-"version"="1282"
+"version"="1833"
 "HttpdnsWhiteList"="*.fun;*.com;*.net;*.im;"
 "HttpdnsBlackList"="web-proxy.tencent.com;"
 "HttpdnsSwitch"=dword:00000000
@@ -38,6 +38,15 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupGameNoticeHistory]
 "adg_NoAskChecked_pl"="id=70904|"
 
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupStartAdClickTime]
+"adg_StartAd_ct"=hex(b):c8,6c,ad,5f,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupStartAdLastTime]
+"adg_StartAd_lt"=hex(b):c0,6c,ad,5f,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupStartAdShowHistory]
+"adg_StartAd_pl"="id=72560|"
+
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupTipsHistory]
 "adg_GameRelease_pl"="id=70926|"
 
@@ -47,18 +56,20 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UI]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\UI"
 "Version"="3.21.1833.100"
-"StartCount"=dword:00000006
+"StartCount"=dword:00000002
 "LastTimeSuccess"=dword:00000001
 "local_opengl_start"=dword:00000000
-"SnapshotPath"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\Snapshot"
+"SnapshotPath"="C:\\Users\\RG-1\\Desktop"
 "LastTimeRunAsServerFail"=dword:00000000
+"TEST"="1"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UIData]
 "Version"="3.21.1833.100"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\Update]
-"Time"=hex(b):00,93,00,fe,9c,b7,d6,01
+"Time"=hex(b):60,cd,b0,83,6f,d8,d6,01
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\VDI_100]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\VDI_100"
 "Version"="3.41.129.100"
+"X64"="0"

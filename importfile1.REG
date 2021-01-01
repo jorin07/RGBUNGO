@@ -1,43 +1,24 @@
 [HKEY_CURRENT_USER\Software\Tencent]
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC]
-"UserLanguage"="en"
+"UserLanguage"="id"
 "sf"="G:\\Temp\\TxGameDownload\\MobileGamePCShared"
-"EmulatorTopMostStatus"=dword:00000000
-"syzs_emulator_hwnd"=dword:00000000
-"syzs_country"="印度尼西亚"
-"CPUScore"=dword:0000157c
-"DirectxVersion"=dword:0000000b
-"GpsLocation"="22,540323,113,934578"
-"tsyzs_aow-251658242"=dword:00000001
 "ApkMiniUpdate"=dword:00000001
 "HideAdvancedWatermark"=dword:00000001
 "download_mode"=dword:00000000
-"com.tencent.ig_RenderQuality"=dword:00000000
-"com.activision.callofduty.shooter_RenderQuality"=dword:00000000
+"ForceDirectX"=dword:00000003
+"EnableGLESv3"=dword:00000000
+"VMResWidth"=dword:00000780
+"VMResHeight"=dword:00000438
+"VMDPI"=dword:00000140
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\Beacon]
-"Last_Sid_AppMarket.exe"="484C4FE6-993A-4932-B7A5-A4FB2BD39AEE"
-"Last_Sid_TUpdate.exe"="5D858608-43ED-4315-88E2-1AFCD0A5B3DA"
-"Last_Sid_AndroidEmulator.exe"="0E8ABDC9-37B2-43F4-B641-596054F36236"
+"Last_Sid_AppMarket.exe"="B5B63333-24B3-4AE3-8482-391AD0A317F1"
+"Last_Sid_TUpdate.exe"="66CE6D26-8F51-46A9-92B9-163C52C13461"
 
 [HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\EngineFalgs]
 "AowInstalling"=dword:00000000
 "Vdi71Installing"=dword:00000000
-
-[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\GameHistory]
-"ReverseOrder"="com.tencent.ig"
-
-[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\NewOpGuidTip]
-"pubg_mobile_userinfo2"="7269709091570984:TBB・cekungut:5124360610"
-
-[HKEY_CURRENT_USER\Software\Tencent\MobileGamePC\RunFalgs]
-"MatchRuleId"=dword:00000198
-"MatchRuleApk"="com.tencent.ig"
-"ApkRuning"=dword:00000000
-"ApkName"="com.tencent.ig"
-"RendererEngine"=dword:00000002
-"GameStatus"=dword:00000000
 
 [HKEY_CURRENT_USER\Software\Tencent\QQ]
 
@@ -53,9 +34,6 @@
 "utility"=hex:01,00,00,00,00,00,00,00,00,00,00,00,04,00,00,00
 
 [HKEY_CURRENT_USER\Software\Tencent\TBS\Wup]
-"ClientToken"="hb+3ADAscUYD7AODskVHK621p+CSctmf76g/tWt7ZuR6X5Nw+fa6Hy9z8SqOSVHJYxj1fYs1LDtVsxPmI+GlnmVXO0I23ncTtfjgbsEldiwQng/sIeihQQLzcMJjBcRyT/e4Ah9HrwR6aY2PxPPGOmwlZ4ZdxQaE"
-"ClientGuid"="935505EE1611763C48CF5533377988CB"
-"ValidationGuid"="477B4A8078113DE3FEDCCAB3BB0ED4D650FBD815BE664E97"
-
-[HKEY_CURRENT_USER\Software\Tencent\TGB]
-"SetVMFailCount"=dword:00000000
+"ClientToken"="CgkWxYc0z9KnPFt+t2JoTr3Hc4qETZkZuFz7M4i9xAlFnJXtU8YR0JTDluriYO8wGrN8ZDEIhglFFg1vudTMzXwKEgoxWbE1MuvgSaKXLIkfvXWayGVH5QLzcMJjBcRyT/e4Ah9HrwR6aY2PxPPGOmwlZ4ZdxQaE"
+"ClientGuid"="9D5B0BE0181F7B4646C15D3D377988CB"
+"ValidationGuid"="038F916700D4EC6C08C26E38D353E83978E87E4B688E9F28"

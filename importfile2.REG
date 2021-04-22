@@ -3,73 +3,33 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent]
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC]
-"SupplyId"=dword:35a80da7
-"version"="1833"
-"HttpdnsWhiteList"="*.fun;*.com;*.net;*.im;"
-"HttpdnsBlackList"="web-proxy.tencent.com;"
-"HttpdnsSwitch"=dword:00000000
-"TSyzsVersion"="4.0.46.80"
+"SupplyId"=dword:35a83b30
+"version"="2112"
+"TSyzsVersion"="4.1.20.90"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AEngine]
-"CpuScore"=dword:0000157c
+"CpuScore"=dword:00000fa0
 "GpuScore"=dword:00000437
 
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AOW_Rootfs_0]
-"InstallPath"="C:\\Program Files\\TxGameAssistant\\AOW_Rootfs"
-"Version"="3.31.93.100"
-"InstallDone"=dword:00000002
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AOW_Rootfs_100]
+"InstallPath"="C:\\Program Files\\TxGameAssistant\\AOW_Rootfs_100"
+"Version"="3.61.122.101"
+"InstallDone"=dword:00000001
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\AppMarket"
 "AutoStart"=dword:00000000
 "Version"="3.11.1277.81"
-"InstallTime"=hex(b):90,4d,3c,ea,81,24,d6,01
-"chkLastChoice"=dword:00000000
-"AppCrashStrTime"="20200827160142"
-"NewInstall"=dword:00000001
-"UpdateFailFileList"="icudtl.dat.update|en-US.pak.update|natives_blob.bin.update|qb.pak.update|qb_100_percent.pak.update|qb_200_percent.pak.update|qb_extensions.pak.update|snapshot_blob.bin.update"
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupBafuTipsHistory]
-"adg_BuffTip_pl"="id=69953|"
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupBafuTipsLastTime]
-"adg_BuffTip_lt"=hex(b):7f,f0,46,5e,00,00,00,00
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupGameNoticeHistory]
-"adg_NoAskChecked_pl"="id=70904|"
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupStartAdClickTime]
-"adg_StartAd_ct"=hex(b):c8,6c,ad,5f,00,00,00,00
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupStartAdLastTime]
-"adg_StartAd_lt"=hex(b):c0,6c,ad,5f,00,00,00,00
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupStartAdShowHistory]
-"adg_StartAd_pl"="id=72560|"
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupTipsHistory]
-"adg_GameRelease_pl"="id=70926|"
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\AppMarket\GroupTipsLastTime]
-"adg_GameRelease_lt"=hex(b):dd,87,f3,5d,00,00,00,00
+"InstallTime"=hex(b):80,f5,bd,51,1a,37,d7,01
+"AppCrashStrTime"="20210422090459"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UI]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\UI"
 "Version"="3.21.2112.81"
-"StartCount"=dword:00000002
+"StartCount"=dword:00000001
 "LastTimeSuccess"=dword:00000001
 "local_opengl_start"=dword:00000000
-"SnapshotPath"="C:\\Users\\RG-1\\Desktop"
-"LastTimeRunAsServerFail"=dword:00000000
-"TEST"="1"
+"SnapshotPath"="X:\\Portable Games\\PUBG Mobile Tencent\\Data Symlinked\\Sampah\\Snapshot"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UIData]
 "Version"="3.21.2112.81"
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\Update]
-"Time"=hex(b):60,cd,b0,83,6f,d8,d6,01
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\VDI_100]
-"InstallPath"="C:\\Program Files\\TxGameAssistant\\VDI_100"
-"Version"="3.41.129.100"
-"X64"="0"

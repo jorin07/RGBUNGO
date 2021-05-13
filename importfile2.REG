@@ -25,7 +25,7 @@ Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Tencent\MobileGamePC\UI]
 "InstallPath"="C:\\Program Files\\TxGameAssistant\\UI"
-"Version"="3.21.2112.81"
+"Version"="3.21.2362.80"
 "StartCount"=dword:00000001
 "LastTimeSuccess"=dword:00000001
 "local_opengl_start"=dword:00000000
